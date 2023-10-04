@@ -3,3 +3,4 @@ OSSPractice5
 
 Fetch & Merge
 A
+B
